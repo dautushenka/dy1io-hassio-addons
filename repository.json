@@ -1,5 +1,5 @@
 {
-  "name": "Home Assistant Add-ons - dy1io",
+  "name": "Dy1io's addons fork",
   "url": "https://github.com/dy1io/hassio-addons",
-  "maintainer": "Dylan Hasler <dylan@hasler.me>"
+  "maintainer": "Denis"
 }
